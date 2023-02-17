@@ -1,0 +1,15 @@
+C:\projects\Reachability\Reachability\bin\Debug\net6.0\Reachability.exe
+C:\projects\Reachability\Reachability\bin\Debug\net6.0\Reachability.deps.json
+C:\projects\Reachability\Reachability\bin\Debug\net6.0\Reachability.runtimeconfig.json
+C:\projects\Reachability\Reachability\bin\Debug\net6.0\Reachability.dll
+C:\projects\Reachability\Reachability\bin\Debug\net6.0\Reachability.pdb
+C:\projects\Reachability\Reachability\obj\Debug\net6.0\Reachability.csproj.AssemblyReference.cache
+C:\projects\Reachability\Reachability\obj\Debug\net6.0\Reachability.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\Reachability\Reachability\obj\Debug\net6.0\Reachability.AssemblyInfoInputs.cache
+C:\projects\Reachability\Reachability\obj\Debug\net6.0\Reachability.AssemblyInfo.cs
+C:\projects\Reachability\Reachability\obj\Debug\net6.0\Reachability.csproj.CoreCompileInputs.cache
+C:\projects\Reachability\Reachability\obj\Debug\net6.0\Reachability.dll
+C:\projects\Reachability\Reachability\obj\Debug\net6.0\refint\Reachability.dll
+C:\projects\Reachability\Reachability\obj\Debug\net6.0\Reachability.pdb
+C:\projects\Reachability\Reachability\obj\Debug\net6.0\Reachability.genruntimeconfig.cache
+C:\projects\Reachability\Reachability\obj\Debug\net6.0\ref\Reachability.dll
